@@ -1,0 +1,5 @@
+
+
+temperature = 25.5
+print(f"Celsius - {temperature}")
+print(f"Kelvin - {temperature + 273}")
